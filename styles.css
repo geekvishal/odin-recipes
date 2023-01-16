@@ -1,0 +1,38 @@
+body {
+    background-color: antiquewhite;
+}
+.title {
+    background-color: antiquewhite;
+    color: black;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-radius: 0.5em;
+}
+
+.descriptions {
+    background-color: darkolivegreen;
+    color: white ;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-radius: 0.5em;
+
+
+}
+
+.image {
+    margin-left: 40%;
+    border-radius: 0.5em;
+}
+
+.steps {
+    display: flex;
+    align-self: center;
+    align-content: center;
+
+}
+
+.ingridients {
+    display: flex;
+    align-items: center;
+    align-content: center;
+}
